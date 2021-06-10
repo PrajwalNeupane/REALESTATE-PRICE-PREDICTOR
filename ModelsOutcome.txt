@@ -1,0 +1,15 @@
+
+1. DecisionTreeRegressor()
+Mean : 4.952459717131729
+Standard Deviation : 0.3850402859344033
+
+2. LinearRegression()
+Mean : 5.060727795665349
+Standard Deviation : 0.7431937960929237
+
+3. RandomForestRegressor()
+Mean : 3.360882804550466
+Standard Deviation : 0.439800846381887
+
+Optimal Model: RandomForestRegressor()
+Mean: 3.360882804550466

@@ -1,0 +1,18 @@
+Model Outputs
+
+
+1. Decision Tree:
+
+  Mean: 5.226020754237038
+  Std: 0.6802289300459066
+
+
+2. Linear Regression:
+
+  Mean: 5.060727795665349
+  Std: 0.7431937960929237
+
+3. Random Forrest Regressor:
+
+  Mean: 3.351890916858274
+  Std: 0.4714131879106561
